@@ -20,8 +20,8 @@ In the initial data preparation phase, I performed the following tasks:
 
 ### Exploratory Data Analysis
 - Analyze the average daily minutes spent per app to understand user engagement.
--Compare the average number of likes and posts per day accross different social media platforms.
--Identify the top apps based on user activity and engagement.
+- Compare the average number of likes and posts per day accross different social media platforms.
+- Identify the top apps based on user activity and engagement.
 
 ### Visualizations Included
 - **Boxplot**: Shows the distribution of user activity by platform.
